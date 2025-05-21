@@ -1,0 +1,8 @@
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L6_TestExactitude\U3_L6_TestExactitude\bin\Debug\U3_L6_TestExactitude.exe.config
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L6_TestExactitude\U3_L6_TestExactitude\bin\Debug\U3_L6_TestExactitude.exe
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L6_TestExactitude\U3_L6_TestExactitude\bin\Debug\U3_L6_TestExactitude.pdb
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L6_TestExactitude\U3_L6_TestExactitude\obj\Debug\U3_L6_TestExactitude.csproj.AssemblyReference.cache
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L6_TestExactitude\U3_L6_TestExactitude\obj\Debug\U3_L6_TestExactitude.csproj.SuggestedBindingRedirects.cache
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L6_TestExactitude\U3_L6_TestExactitude\obj\Debug\U3_L6_TestExactitude.csproj.CoreCompileInputs.cache
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L6_TestExactitude\U3_L6_TestExactitude\obj\Debug\U3_L6_TestExactitude.exe
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L6_TestExactitude\U3_L6_TestExactitude\obj\Debug\U3_L6_TestExactitude.pdb
